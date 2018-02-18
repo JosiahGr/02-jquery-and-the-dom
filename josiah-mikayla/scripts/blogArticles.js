@@ -1,7 +1,7 @@
 'use strict';
 
 // COMMENT: How is this data utilized within our blog app? What is the structure of this data (your response should include the terms "object", "array", and "key/value pairs")?
-// PUT YOUR RESPONSE HERE
+// This is an array of objects. We access the object when it is fed into our other js functions which gives us access to it's key/value pairs. This is where the articles are stored until we append them to the html. 
 
 let rawData = [
   {
